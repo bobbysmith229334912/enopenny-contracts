@@ -77,7 +77,7 @@ These are external asset references, not copies of the MP4 binaries in Git. Do n
 - Keep the wooden flute at a consistent physical size across panels. Bobby specifically observed that it appeared oversized in some panels.
 - Earlier agreed presentation: natural Benjamin narration; hold a page for roughly 85% of its narration and smoothly scroll upward during the remaining 15%; match narration to story order. Verify against the published reference before production.
 - Release cadence: every five days.
-- Bobby must be able to read/review new chapter content before posting. Approval of a previous chapter does not approve every future chapter.
+- Updated November 4: Bobby authorizes autonomous review and release after every gate in AUTOMATED_REVIEW.md passes. Personal review is optional; unresolved or unperformed checks block release.
 - Preserve completed work and exact approved versions. Do not overwrite published chapters to fit a newly invented explanation.
 - Track generation credits and actual production costs; Bobby asked about per-chapter costs and a month of five-day releases. No verified cost figures are available here.
 
@@ -118,7 +118,7 @@ Use this working evidence table:
 3. Complete the manga evidence ledger for the relevant history, expanding across the full manga for contradictions and later revelations.
 4. Check Chapter 3 and the proposed Chapter 4 against that ledger and the established ending.
 5. Draft the next chapter to answer specific WHY/HOW questions while continuing the story naturally; mark invented connective material in production notes.
-6. Present chapter text/pages for Bobby's review before a new publication.
+6. Follow AUTOMATED_REVIEW.md; release without routine personal approval only after every documented gate passes.
 7. After approval and publication, update this checkpoint, the asset manifest, costs, exact final page, and next chapter's starting point.
 
 ## Future chapter archive structure
@@ -128,3 +128,6 @@ Label missing artifacts explicitly. Do not fabricate missing scripts from captio
 
 ## Operational boundary
 This checkpoint saves the purpose, rules, known status and references. It does not claim that a dedicated standalone repository was previously created, that all media is archived, that every manga volume has been read, or that Chapter 4 is finished.
+
+## Automated review authority
+Bobby's latest instruction supersedes earlier mandatory personal review. Read [AUTOMATED_REVIEW.md](AUTOMATED_REVIEW.md) before production or publication. Use evidence-based PASS/HOLD decisions, fix ordinary problems autonomously, and minimize interruptions. Adoption alone does not certify existing chapters.
