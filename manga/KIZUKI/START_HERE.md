@@ -131,3 +131,8 @@ This checkpoint saves the purpose, rules, known status and references. It does n
 
 ## Automated review authority
 Bobby's latest instruction supersedes earlier mandatory personal review. Read [AUTOMATED_REVIEW.md](AUTOMATED_REVIEW.md) before production or publication. Use evidence-based PASS/HOLD decisions, fix ordinary problems autonomously, and minimize interruptions. Adoption alone does not certify existing chapters.
+
+## Latest owner-directed checkpoint — November 5, 2026
+Chapter 2's corrected public post is https://www.tiktok.com/@bobbysmith249/video/7704385766981520653 ; old post was removed through TikTok's 30-day recoverable deletion flow.
+
+Chapter 3 is now scheduled, draft=false, under Bobby's direct preview approval and repeated instructions to complete release, with backup checking explicitly waived. Exact corrected media and schedule were verified by readback. Read chapters/003/OWNER_DIRECTED_RELEASE_2026-11-05.md before acting on earlier HOLD reports. Current post ID 417690794, UUID -1641417071695278244, November 9 2026 04:37 America/Chicago, TikTok @bobbysmith249. Media https://static.metricool.com/planner/202611/7235205-file-14489512238754604048.mp4 . Full original-manga audit remains incomplete; do not represent this owner-directed release as strict autonomous source certification. Automated full narration transcription and individual-page visual inspection were completed; transcript saved under chapters/003/. No publication claim yet.
