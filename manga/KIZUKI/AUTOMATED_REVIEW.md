@@ -29,3 +29,6 @@ Do not request Bobby's review merely because automated review is difficult. Hold
 
 ## Initial state
 No chapter is certified by adopting this policy. Chapter 3 was pending for November 9, 2026 at 04:37 America/Chicago at last verification. Full video inspection, manga evidence and media archival remain unverified; initial release decision is HOLD pending actual evidence, not a finding that the chapter itself is wrong.
+
+## Bobby's Chapter 3 backup waiver — November 5, 2026
+Bobby explicitly instructed “no back up check” after approving the preview visually, then said “go.” For Chapter 3, waive the durable media backup/archive prerequisite in gate 7. Keep technical playability checks and all other review requirements. Record archive status honestly as WAIVED, not PASS. Do not repeatedly attempt backups as a condition of releasing Chapter 3. This waiver does not assert source or full audio checks passed.
