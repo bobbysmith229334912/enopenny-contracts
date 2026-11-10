@@ -1,0 +1,24 @@
+{
+  "title": "KIZUKI Chapter 4 — The First Breath of the Sun",
+  "version": "chapter3_comparison_update_2026-11-10",
+  "canonical": true,
+  "replaces": [
+    "KIZUKI_Chapter_4_Benjamin_Complete.mp4",
+    "KIZUKI_Chapter_4_Completed_With_Audio.mp4"
+  ],
+  "file": "KIZUKI_Chapter_4_UPDATED_Benjamin.mp4",
+  "file_sha256": "e367e562025d707928b50289cf92a0921bdb8b9305eaea7a4854378b59d08ead",
+  "size_bytes": 17364056,
+  "zip_file": "KIZUKI_Chapter_4_UPDATED_Benjamin.zip",
+  "zip_sha256": "d259ec1ec0c1d79fe9b9f108a96dff6217398acf1241cbb3fff01083137855a1",
+  "duration_seconds": 205.660136,
+  "dimensions": "720x1280",
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "narrator": "Benjamin — existing owner-provided recordings",
+  "pages": 12,
+  "presentation": "85% full-page hold, 15% smooth upward scroll",
+  "github_media_uploaded": false,
+  "publication_verified": false,
+  "notes": "Supersedes earlier fourth chapter cuts. Media bytes are not in GitHub; metadata only. Do not claim archival complete."
+}
