@@ -136,14 +136,15 @@
       },
       {
         "page": 8,
-        "task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
-        "status": "BLOCKED_CONTENT_MODERATION",
+        "task_id": "788028ec-7281-447f-9bd8-720936b36720",
+        "status": "SUCCEEDED_CORRECTED",
         "retry_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
         "replacement_task_id": "788028ec-7281-447f-9bd8-720936b36720",
         "replacement_status": "SUCCEEDED",
         "replacement_voice": "Benjamin",
         "replacement_narration": "At the training grounds, Michikatsu unfolded a letter from home. His children were growing older, and their familiar handwriting filled the page. He read it twice, then carefully slipped it beside his sword. His family remained part of his life, even as he devoted his days to mastering the blade.",
-        "replacement_duration_seconds": 19.272562
+        "replacement_duration_seconds": 19.272562,
+        "previous_task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55"
       },
       {
         "page": 9,
@@ -209,61 +210,88 @@
       },
       {
         "page": 12,
-        "task_id": "e15be57f-3721-490d-83c1-5ff994a08492"
+        "task_id": "4cdaa6a0-c2f9-4a2c-b89a-5e1764178f77",
+        "previous_task_id": "e15be57f-3721-490d-83c1-5ff994a08492",
+        "status": "SUCCEEDED_CORRECTED",
+        "duration_seconds": 24.148753
       }
     ],
     "09": [
       {
         "page": 1,
-        "task_id": "5e8992b8-5a62-44f1-b86b-d8cdd64fa3e7"
+        "task_id": "6e79a2fe-5b77-4bbe-ac96-68a5f96ec42b",
+        "previous_task_id": "5e8992b8-5a62-44f1-b86b-d8cdd64fa3e7",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 2,
-        "task_id": "baa4a03b-15b5-414c-985a-bc913827d98f"
+        "task_id": "6b2762f4-eee8-40e8-a0d2-16fcbcb31bbc",
+        "previous_task_id": "baa4a03b-15b5-414c-985a-bc913827d98f",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 3,
-        "task_id": "c0be582a-6919-4efe-a253-6027d772fffc"
+        "task_id": "8fccadfd-a8f7-499f-bf1e-6f478a1b89cb",
+        "previous_task_id": "c0be582a-6919-4efe-a253-6027d772fffc",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 4,
-        "task_id": "86901282-4717-4332-bfa3-7ceb7b88f00b"
+        "task_id": "5789e0dc-9f4c-494a-9b8e-e72ff9da61e8",
+        "previous_task_id": "86901282-4717-4332-bfa3-7ceb7b88f00b",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 5,
-        "task_id": "0a99ffe7-521e-4c25-84f6-6f8bacfc9395"
+        "task_id": "19bf917f-ff0f-49ec-aca1-eb1afc7d6b69",
+        "previous_task_id": "0a99ffe7-521e-4c25-84f6-6f8bacfc9395",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 6,
-        "task_id": "a1344358-cbca-4716-b6e3-216b0791ab02"
+        "task_id": "c901f99d-5db4-468f-b2f0-a3d8b620f367",
+        "previous_task_id": "a1344358-cbca-4716-b6e3-216b0791ab02",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 7,
-        "task_id": "0ea7cb2a-fdfd-47d4-b592-26b72a3c4428"
+        "task_id": "db5bc9cd-fb6d-45d6-a3f5-ccfb718ae8c3",
+        "previous_task_id": "0ea7cb2a-fdfd-47d4-b592-26b72a3c4428",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 8,
-        "task_id": "453ef2aa-228b-4db1-b8f0-7a8a53a95e5b"
+        "task_id": "3209c689-155d-4d6c-bc16-90cec7fefac1",
+        "previous_task_id": "453ef2aa-228b-4db1-b8f0-7a8a53a95e5b",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 9,
-        "task_id": "ff9e878e-d181-438a-b319-ddd63bb36648"
+        "task_id": "70a2c0d2-989e-40de-a265-7072c6cd5ae6",
+        "previous_task_id": "ff9e878e-d181-438a-b319-ddd63bb36648",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 10,
-        "task_id": "89efcb58-7f44-4f80-884f-5178b212fed6"
+        "task_id": "ef74234d-96eb-4719-9526-ac42aec46af5",
+        "previous_task_id": "89efcb58-7f44-4f80-884f-5178b212fed6",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 11,
-        "task_id": "bb676137-a332-46e0-a6b3-e759557268aa"
+        "task_id": "fae9e13c-1071-48c2-8e13-07888445213d",
+        "previous_task_id": "bb676137-a332-46e0-a6b3-e759557268aa",
+        "status": "SUCCEEDED_CORRECTED"
       },
       {
         "page": 12,
-        "task_id": "eb7e0f41-da43-447e-be21-c8d92dec9600"
+        "task_id": "99f7ac15-c7a6-427d-a707-ee9370df4653",
+        "previous_task_id": "eb7e0f41-da43-447e-be21-c8d92dec9600",
+        "status": "SUCCEEDED_CORRECTED"
       }
     ]
   },
-  "status_notes": "Audio-generation status: 60 of 60 Chapter 05–09 Benjamin page recordings succeeded, including the rewritten Chapter 07 Page 08, duration 19.272562 s. Audio files are in Runway, not backed up as bytes in GitHub. Source-story editorial audit found a canon chronology conflict in Chapter 09: chapter's opening tells Yoriichi of Michikatsu's transformation BEFORE Yoriichi's Muzan/Tamayo encounter, but manga ch 187 delivers that news AFTER the encounter; Chapter 09 MUST BE REVISED and its narration regenerated to correct chronology before release. Final visual/audio MP4s not made; no publication authorized.",
+  "status_notes": "2026-11-10: All 60 canonical page narrations in Runway succeeded, using 12 corrected Chapter 09 MP3s and corrected Chapter 08 Page 12. Original 12 chapter 9 recordings and Chapter 08 Page 12 are superseded. Chapter 07 Page08 uses successful retake task ID 788028ec-7281-447f-9bd8-720936b36720, NOT blocked original. MP3 binary bytes have NOT been committed to GitHub; no completed video exports.",
   "verification": {
     "chapter_05": {
       "success": 12,
@@ -286,19 +314,22 @@
     },
     "chapter_08": {
       "success": 12,
-      "duration_seconds": 203.546122
+      "duration_seconds": 203.546122,
+      "corrected_final_page_task_id": "4cdaa6a0-c2f9-4a2c-b89a-5e1764178f77"
     },
     "chapter_09": {
       "success": 12,
-      "duration_seconds": 208.747393
+      "chronology": "Muzan+Tamayo encounter before Michikatsu betrayal news, per manga chapter 187",
+      "duration_seconds": 235.4049,
+      "all_corrected_tasks_verified": true
     }
   },
   "editorial": {
-    "status": "HOLD",
-    "chapters_05_08": "Broad chronology in line with manga chapter 178; original connective scenes should be labeled fan-fiction; visual/audio listening QA pending",
-    "chapter_09": "REWRITE REQUIRED before production: news that Michikatsu became demon reaches Yoriichi only after Muzan/Tamayo meeting (manga chapter 187). Do not use recorded Chapter 09 narration as final.",
+    "status": "AUDIO_CHRONOLOGY_CORRECTED_VISUAL_QA_PENDING",
+    "chapter_09": "Rewritten and recorded all 12 pages to follow Chapter 187 sequence. Old page MP3 IDs preserved as previous_task_id ONLY; do not use.",
+    "chapter_08": "Corrected Page 12 cliffhanger to lead into Muzan encounter. Earlier final page superseded.",
     "sources": [
-      "https://kimetsu-no-yaiba.fandom.com/wiki/Chapter_178",
+      "https://kimetsu-no-yaiba.fandom.com/wiki/Chapter_186",
       "https://kimetsu-no-yaiba.fandom.com/wiki/Chapter_187"
     ]
   }
