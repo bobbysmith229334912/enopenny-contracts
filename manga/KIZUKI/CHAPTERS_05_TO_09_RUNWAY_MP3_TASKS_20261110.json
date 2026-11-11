@@ -140,9 +140,10 @@
         "status": "BLOCKED_CONTENT_MODERATION",
         "retry_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
         "replacement_task_id": "788028ec-7281-447f-9bd8-720936b36720",
-        "replacement_status": "SUBMITTED_PENDING_IN_RUNWAY_VIEWER",
+        "replacement_status": "SUCCEEDED",
         "replacement_voice": "Benjamin",
-        "replacement_narration": "At the training grounds, Michikatsu unfolded a letter from home. His children were growing older, and their familiar handwriting filled the page. He read it twice, then carefully slipped it beside his sword. His family remained part of his life, even as he devoted his days to mastering the blade."
+        "replacement_narration": "At the training grounds, Michikatsu unfolded a letter from home. His children were growing older, and their familiar handwriting filled the page. He read it twice, then carefully slipped it beside his sword. His family remained part of his life, even as he devoted his days to mastering the blade.",
+        "replacement_duration_seconds": 19.272562
       },
       {
         "page": 9,
@@ -262,7 +263,7 @@
       }
     ]
   },
-  "status_notes": "All originally successful 59 MP3s remain unchanged. User approved rewritten narration for Chapter 07 Page 08; new Benjamin TTS task 788028ec-7281-447f-9bd8-720936b36720 submitted 2026-11-10; Runway live viewer will reflect completion. This manifest does not certify Page 08 until task succeeds. MP3 bytes not archived in GitHub. No complete MP4 for chapters 5–9.",
+  "status_notes": "Audio-generation status: 60 of 60 Chapter 05–09 Benjamin page recordings succeeded, including the rewritten Chapter 07 Page 08, duration 19.272562 s. Audio files are in Runway, not backed up as bytes in GitHub. Source-story editorial audit found a canon chronology conflict in Chapter 09: chapter's opening tells Yoriichi of Michikatsu's transformation BEFORE Yoriichi's Muzan/Tamayo encounter, but manga ch 187 delivers that news AFTER the encounter; Chapter 09 MUST BE REVISED and its narration regenerated to correct chronology before release. Final visual/audio MP4s not made; no publication authorized.",
   "verification": {
     "chapter_05": {
       "success": 12,
@@ -273,14 +274,15 @@
       "duration_seconds": 224.49052
     },
     "chapter_07": {
-      "success": 11,
+      "success": 12,
       "blocked_page": 8,
       "successful_duration_seconds": 211.069388,
       "blocked_original_task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
       "blocked_retake_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
       "blocked_reason": "Runway content moderation; no further retry without fresh explicit user instruction",
       "replacement_task_id": "788028ec-7281-447f-9bd8-720936b36720",
-      "replacement_state": "SUBMITTED; success not yet verified"
+      "replacement_state": "SUCCEEDED",
+      "total_duration_seconds": 230.34195
     },
     "chapter_08": {
       "success": 12,
@@ -290,5 +292,14 @@
       "success": 12,
       "duration_seconds": 208.747393
     }
+  },
+  "editorial": {
+    "status": "HOLD",
+    "chapters_05_08": "Broad chronology in line with manga chapter 178; original connective scenes should be labeled fan-fiction; visual/audio listening QA pending",
+    "chapter_09": "REWRITE REQUIRED before production: news that Michikatsu became demon reaches Yoriichi only after Muzan/Tamayo meeting (manga chapter 187). Do not use recorded Chapter 09 narration as final.",
+    "sources": [
+      "https://kimetsu-no-yaiba.fandom.com/wiki/Chapter_178",
+      "https://kimetsu-no-yaiba.fandom.com/wiki/Chapter_187"
+    ]
   }
 }
