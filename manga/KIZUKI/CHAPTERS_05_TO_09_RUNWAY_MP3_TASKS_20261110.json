@@ -138,7 +138,11 @@
         "page": 8,
         "task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
         "status": "BLOCKED_CONTENT_MODERATION",
-        "retry_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee"
+        "retry_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
+        "replacement_task_id": "788028ec-7281-447f-9bd8-720936b36720",
+        "replacement_status": "SUBMITTED_PENDING_IN_RUNWAY_VIEWER",
+        "replacement_voice": "Benjamin",
+        "replacement_narration": "At the training grounds, Michikatsu unfolded a letter from home. His children were growing older, and their familiar handwriting filled the page. He read it twice, then carefully slipped it beside his sword. His family remained part of his life, even as he devoted his days to mastering the blade."
       },
       {
         "page": 9,
@@ -258,7 +262,7 @@
       }
     ]
   },
-  "status_notes": "Verification 2026-11-10: 59 of 60 page MP3 tasks SUCCEEDED (Runway assets). Chapter 07 Page 08 failed Runway moderation; one explicit retake also failed and was refunded. Do not retry that flagged request absent fresh explicit user request. Audio source is in Runway workspace; MP3 bytes have NOT been transferred into GitHub/ZIP, and final videos are NOT built.",
+  "status_notes": "All originally successful 59 MP3s remain unchanged. User approved rewritten narration for Chapter 07 Page 08; new Benjamin TTS task 788028ec-7281-447f-9bd8-720936b36720 submitted 2026-11-10; Runway live viewer will reflect completion. This manifest does not certify Page 08 until task succeeds. MP3 bytes not archived in GitHub. No complete MP4 for chapters 5–9.",
   "verification": {
     "chapter_05": {
       "success": 12,
@@ -274,7 +278,9 @@
       "successful_duration_seconds": 211.069388,
       "blocked_original_task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
       "blocked_retake_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
-      "blocked_reason": "Runway content moderation; no further retry without fresh explicit user instruction"
+      "blocked_reason": "Runway content moderation; no further retry without fresh explicit user instruction",
+      "replacement_task_id": "788028ec-7281-447f-9bd8-720936b36720",
+      "replacement_state": "SUBMITTED; success not yet verified"
     },
     "chapter_08": {
       "success": 12,
