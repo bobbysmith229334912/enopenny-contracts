@@ -1,0 +1,260 @@
+{
+  "series": "KIZUKI",
+  "created": "2026-11-10",
+  "voice": "Benjamin",
+  "model": "eleven_multilingual_v2",
+  "speed": 0.95,
+  "chapters": {
+    "05": [
+      {
+        "page": 1,
+        "task_id": "84cc7f5c-dab6-4042-ab68-d8d2cb218ae8"
+      },
+      {
+        "page": 2,
+        "task_id": "f07e3bc2-c4a8-4ec8-83dc-87f8d3f49805"
+      },
+      {
+        "page": 3,
+        "task_id": "d2dbfb93-8eeb-467e-a8ec-7fe5f3521d67"
+      },
+      {
+        "page": 4,
+        "task_id": "8fd307bc-5acd-4a9c-9f4f-5e6d7db2b801"
+      },
+      {
+        "page": 5,
+        "task_id": "0c510201-207e-4036-b9a4-b9a3952c602d"
+      },
+      {
+        "page": 6,
+        "task_id": "41a15aaf-9e00-4c6c-8baa-773a20b21637"
+      },
+      {
+        "page": 7,
+        "task_id": "df674f63-5b92-44e0-aaf1-a40f90eb77ec"
+      },
+      {
+        "page": 8,
+        "task_id": "286945fd-0253-4b27-a31b-4aeeb8a7adea"
+      },
+      {
+        "page": 9,
+        "task_id": "fbde2e65-aa5e-472a-ab0f-16c6d368ebea"
+      },
+      {
+        "page": 10,
+        "task_id": "37a6d802-1b39-4110-a30b-d334f26cbcf1"
+      },
+      {
+        "page": 11,
+        "task_id": "5322f606-0a60-45fe-be5e-8aaf5c2ac212"
+      },
+      {
+        "page": 12,
+        "task_id": "8740bc89-2916-4056-a3e9-267eb49b13d5"
+      }
+    ],
+    "06": [
+      {
+        "page": 1,
+        "task_id": "b7443fa6-f683-41d3-bd0f-b2d1a3db4b2c"
+      },
+      {
+        "page": 2,
+        "task_id": "eda4b80f-ecfc-4c0e-bbef-930048cedb43"
+      },
+      {
+        "page": 3,
+        "task_id": "88ea69d1-af63-48ea-93b8-1d42208f23a5"
+      },
+      {
+        "page": 4,
+        "task_id": "83a736d0-0ac7-4de6-b45e-e68bbb41bc0f"
+      },
+      {
+        "page": 5,
+        "task_id": "c2b90e03-b136-45b2-8a7a-211a63dd5b22"
+      },
+      {
+        "page": 6,
+        "task_id": "aa772859-94eb-4896-94d8-cac0dcc63426"
+      },
+      {
+        "page": 7,
+        "task_id": "9e0eda9a-832c-40ac-a436-97ea7856a4d4"
+      },
+      {
+        "page": 8,
+        "task_id": "2eea5c92-3f6f-41ab-a18d-7a353140d4cd"
+      },
+      {
+        "page": 9,
+        "task_id": "ee407a16-dc23-47e2-af6a-8cfafaf24ecf"
+      },
+      {
+        "page": 10,
+        "task_id": "2756e683-0bfb-4374-98e7-0110de689638"
+      },
+      {
+        "page": 11,
+        "task_id": "954d5d34-eec6-417a-8d57-e4252956d96e"
+      },
+      {
+        "page": 12,
+        "task_id": "bb5ec87e-d54e-46d9-bd2c-b5d1f0850fdc"
+      }
+    ],
+    "07": [
+      {
+        "page": 1,
+        "task_id": "305b2aff-fbcc-4491-8e45-24b7d73763d1"
+      },
+      {
+        "page": 2,
+        "task_id": "af9a6b1e-3114-4226-8ac2-18447a45ab39"
+      },
+      {
+        "page": 3,
+        "task_id": "0bd0a745-cbf1-4275-bdd5-c29d202a60e6"
+      },
+      {
+        "page": 4,
+        "task_id": "93d853a6-e3c7-40c5-9b2a-b906c5a9d47b"
+      },
+      {
+        "page": 5,
+        "task_id": "fee224e8-ec67-444b-a684-1c8ef09964a4"
+      },
+      {
+        "page": 6,
+        "task_id": "de0a8e85-c572-435f-82ce-966b23901560"
+      },
+      {
+        "page": 7,
+        "task_id": "703282ef-448e-4967-b0c5-f400abf0a729"
+      },
+      {
+        "page": 8,
+        "task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55"
+      },
+      {
+        "page": 9,
+        "task_id": "72b4896e-68ed-47a9-8365-b82ff012bd21"
+      },
+      {
+        "page": 10,
+        "task_id": "0157b24b-6a6d-4a65-835d-9e87ff93d71a"
+      },
+      {
+        "page": 11,
+        "task_id": "7fb6420a-9921-4242-8037-a5fc7b50bed7"
+      },
+      {
+        "page": 12,
+        "task_id": "01e28329-4926-4a00-b5fe-ac6cc150304f"
+      }
+    ],
+    "08": [
+      {
+        "page": 1,
+        "task_id": "49ff8c7b-bc55-4bdc-b072-0c51abdaa97e"
+      },
+      {
+        "page": 2,
+        "task_id": "1d796c6b-b42f-4954-8ae2-1d3fb89076d8"
+      },
+      {
+        "page": 3,
+        "task_id": "4d951811-06b7-418f-bf18-1ef1b4d7c476"
+      },
+      {
+        "page": 4,
+        "task_id": "57af5cb4-1be0-4866-9483-5414c000da3c"
+      },
+      {
+        "page": 5,
+        "task_id": "f177c57c-9242-4094-ae93-23dc83951b0e"
+      },
+      {
+        "page": 6,
+        "task_id": "dbc871d9-c7fd-488e-911c-1a8c9d36a2ba"
+      },
+      {
+        "page": 7,
+        "task_id": "995dd8fc-f644-4dab-982c-83e7a606aaff"
+      },
+      {
+        "page": 8,
+        "task_id": "566a6117-3112-4ee7-bf29-71e65d5e33d4"
+      },
+      {
+        "page": 9,
+        "task_id": "5604ab7a-fad8-4532-9e18-44193bc03019"
+      },
+      {
+        "page": 10,
+        "task_id": "c0b5b3e2-95e1-4b45-a6e5-59d5bf1543cc"
+      },
+      {
+        "page": 11,
+        "task_id": "f96f407b-a21c-4bcd-b0f3-20432c1d58e0"
+      },
+      {
+        "page": 12,
+        "task_id": "e15be57f-3721-490d-83c1-5ff994a08492"
+      }
+    ],
+    "09": [
+      {
+        "page": 1,
+        "task_id": "5e8992b8-5a62-44f1-b86b-d8cdd64fa3e7"
+      },
+      {
+        "page": 2,
+        "task_id": "baa4a03b-15b5-414c-985a-bc913827d98f"
+      },
+      {
+        "page": 3,
+        "task_id": "c0be582a-6919-4efe-a253-6027d772fffc"
+      },
+      {
+        "page": 4,
+        "task_id": "86901282-4717-4332-bfa3-7ceb7b88f00b"
+      },
+      {
+        "page": 5,
+        "task_id": "0a99ffe7-521e-4c25-84f6-6f8bacfc9395"
+      },
+      {
+        "page": 6,
+        "task_id": "a1344358-cbca-4716-b6e3-216b0791ab02"
+      },
+      {
+        "page": 7,
+        "task_id": "0ea7cb2a-fdfd-47d4-b592-26b72a3c4428"
+      },
+      {
+        "page": 8,
+        "task_id": "453ef2aa-228b-4db1-b8f0-7a8a53a95e5b"
+      },
+      {
+        "page": 9,
+        "task_id": "ff9e878e-d181-438a-b319-ddd63bb36648"
+      },
+      {
+        "page": 10,
+        "task_id": "89efcb58-7f44-4f80-884f-5178b212fed6"
+      },
+      {
+        "page": 11,
+        "task_id": "bb676137-a332-46e0-a6b3-e759557268aa"
+      },
+      {
+        "page": 12,
+        "task_id": "eb7e0f41-da43-447e-be21-c8d92dec9600"
+      }
+    ]
+  },
+  "status_notes": "60 Runway TTS tasks submitted. Chapter 05 all 12 individually verified SUCCEEDED; remaining chapter tasks submitted and to be verified. Does not assert MP3 bytes stored in GitHub or finished MP4 export."
+}
