@@ -136,7 +136,9 @@
       },
       {
         "page": 8,
-        "task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55"
+        "task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
+        "status": "BLOCKED_CONTENT_MODERATION",
+        "retry_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee"
       },
       {
         "page": 9,
@@ -256,5 +258,31 @@
       }
     ]
   },
-  "status_notes": "60 Runway TTS tasks submitted. Chapter 05 all 12 individually verified SUCCEEDED; remaining chapter tasks submitted and to be verified. Does not assert MP3 bytes stored in GitHub or finished MP4 export."
+  "status_notes": "Verification 2026-11-10: 59 of 60 page MP3 tasks SUCCEEDED (Runway assets). Chapter 07 Page 08 failed Runway moderation; one explicit retake also failed and was refunded. Do not retry that flagged request absent fresh explicit user request. Audio source is in Runway workspace; MP3 bytes have NOT been transferred into GitHub/ZIP, and final videos are NOT built.",
+  "verification": {
+    "chapter_05": {
+      "success": 12,
+      "approx_duration_seconds": 215
+    },
+    "chapter_06": {
+      "success": 12,
+      "duration_seconds": 224.49052
+    },
+    "chapter_07": {
+      "success": 11,
+      "blocked_page": 8,
+      "successful_duration_seconds": 211.069388,
+      "blocked_original_task_id": "74c622b6-35d3-4234-b5a6-9d5a9a4f3a55",
+      "blocked_retake_task_id": "e07b6db8-1fd2-4666-94b9-df082c8053ee",
+      "blocked_reason": "Runway content moderation; no further retry without fresh explicit user instruction"
+    },
+    "chapter_08": {
+      "success": 12,
+      "duration_seconds": 203.546122
+    },
+    "chapter_09": {
+      "success": 12,
+      "duration_seconds": 208.747393
+    }
+  }
 }
