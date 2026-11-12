@@ -1,0 +1,8 @@
+# November 12 production review
+Read current required project records and Chapter 4 manifest; no matching approved updated binary in managed scratch. No Chapter 4 release created; live Metricool retains Chapter 3 PUBLISHED, no new entries through December 1. Earliest Chapter 4 November 14 04:37 Central, not guaranteed.
+
+Chapter 4 strict decision HOLD: source UNKNOWN, exact-render continuity/art/audio/technical checks UNKNOWN because approved binary inaccessible; archive incomplete; purpose provisionally appropriate; final second review pending. Preserve exact candidate e367e562...; do not publish older cuts or touch Chapters 1–3. Existing November 11 recovery details remain applicable, not repeated as new work.
+
+NEW work: recovered all 12 original Chapter 5 MP3 bytes via existing Runway tasks with no generation. All hashes calculated, nonempty files verified, each complete FFmpeg decode exit 0. ffprobe duration metadata differs slightly from previous remote totals, so final mux must use decoded sample timeline and inspect sync; do not arbitrarily trim speech. Full sound listening/identity not certified by decode. Manifest committed. Original Chapter 5 source video/pages remain needed for final mux and inspection; audio-only recovery is not finished episode. No blocked Chapter 7 retries.
+
+Adversarial check: metadata-only GitHub commits cannot satisfy binary archive; silent visual master cannot satisfy audio gate; approved Chapter 4 cannot be replaced by a regenerated proxy. No cash, new metered generation, automation changes, duplicate posts or publication claims. Task not fully blocked: downstream original audio recovery succeeded while Chapter 4 exact-binary access remains unresolved.
